@@ -154,6 +154,9 @@ key_key.climbdown.desc:key.keyboard.unknown
 key_key.enderlaunch.desc:key.mouse.left
 key_key.rocket.desc:key.mouse.left
 key_key.slide.desc:key.keyboard.left.shift
+key_key.indrev.modular:key.keyboard.k
+key_key.indrev.gamer_axe_toggle:key.keyboard.g
+key_key.indrev.jetpack_toggle:key.keyboard.j
 key_key.inventory_control_tweaks.drag_out_of_inventory_modifier:key.keyboard.left.control
 key_key.inventory_control_tweaks.drag_all_out_of_inventory_modifier:key.keyboard.unknown
 key_key.inventory_control_tweaks.click_armor_swap_modifier:key.keyboard.right.shift
@@ -202,7 +205,7 @@ key_gui.xaero_quick_confirm:key.keyboard.right.shift
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

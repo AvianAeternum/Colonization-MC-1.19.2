@@ -38,17 +38,26 @@ mode = "fancy"
 				axolotl = true
 				chest_minecart = true
 				salmon = true
-				item = true
+				horse = true
+				cow = true
+				sheep = true
 				villager = true
 				iron_golem = true
 				cat = true
-				cow = true
-				enderman = true
-				cave_spider = true
+				dolphin = true
+				cod = true
 				witch = true
-				zombie_villager = true
+				item = true
+				drowned = true
+				enderman = true
+				turtle = true
+				cave_spider = true
+				polar_bear = true
+				wolf = true
+				fox = true
+				bee = true
 				slime = true
-				sheep = true
+				zombie_villager = true
 
 			[light_sources.settings.entities.naturalist]
 				snail = true
@@ -60,10 +69,11 @@ mode = "fancy"
 				deer = true
 				duck = true
 				bass = true
-				vulture = true
-				rattlesnake = true
-				tortoise = true
+				coral_snake = true
+				robin = true
 
 			[light_sources.settings.entities.lilwings]
+				swallow_tail_butterfly = true
 				grayling_butterfly = true
+				red_applefly_butterfly = true
 

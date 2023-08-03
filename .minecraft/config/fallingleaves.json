@@ -319,6 +319,10 @@
     "chipped:frosted_acacia_leaves": {
       "spawnRateFactor": 1.0,
       "isConiferBlock": false
+    },
+    "techreborn:rubber_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false
     }
   },
   "leafSpawners": [],
