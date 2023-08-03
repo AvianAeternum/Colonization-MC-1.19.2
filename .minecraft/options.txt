@@ -10,7 +10,7 @@ forceUnicodeFont:false
 discrete_mouse_scroll:false
 invertYMouse:false
 realmsNotifications:true
-reducedDebugInfo:false
+reducedDebugInfo:true
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
@@ -42,10 +42,10 @@ incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:""
-chatVisibility:0
-chatOpacity:1.0
+chatVisibility:1
+chatOpacity:0.3492957746478873
 chatLineSpacing:0.0
-textBackgroundOpacity:0.5
+textBackgroundOpacity:0.0
 backgroundForChatOnly:true
 hideServerAddress:false
 advancedItemTooltips:false
@@ -55,7 +55,7 @@ overrideHeight:0
 heldItemTooltips:true
 chatHeightFocused:1.0
 chatDelay:0.0
-chatHeightUnfocused:0.4375
+chatHeightUnfocused:0.42535211267605616
 chatScale:1.0
 chatWidth:1.0
 mipmapLevels:4
