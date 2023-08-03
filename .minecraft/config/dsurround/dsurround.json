@@ -36,7 +36,7 @@
   },
   "entityEffects": {
     "entityEffectRange": 24,
-    "enableBowPull": true,
+    "enableBowPull": false,
     "enableBreathEffect": true,
     "enablePlayerToolbarEffect": false,
     "enableSwingEffect": false

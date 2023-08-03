@@ -9,9 +9,9 @@ stop_music_on_play = true
 emit_ring_animation = true
 #Defines whether you will see others playing on your instrument's screen
 display_other_players = true
-render_background = true
+render_background = false
 accurate_accidentals = true
-accepted_genshin_consent = false
+accepted_genshin_consent = true
 #Allowed Values: OLD, NEW
 zither_sound_type = "NEW"
 #Allowed Values: DON_KA, KEYBOARD_LAYOUT, NONE

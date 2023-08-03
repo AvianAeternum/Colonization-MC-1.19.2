@@ -58,6 +58,10 @@ mode = "fancy"
 				bee = true
 				slime = true
 				zombie_villager = true
+				tropical_fish = true
+				pufferfish = true
+				parrot = true
+				ocelot = true
 
 			[light_sources.settings.entities.naturalist]
 				snail = true
@@ -71,9 +75,11 @@ mode = "fancy"
 				bass = true
 				coral_snake = true
 				robin = true
+				tortoise = true
 
 			[light_sources.settings.entities.lilwings]
 				swallow_tail_butterfly = true
 				grayling_butterfly = true
 				red_applefly_butterfly = true
+				painted_panther_butterfly = true
 
