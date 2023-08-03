@@ -10,7 +10,7 @@
 		"fadeIn": 0.0,
 		"fadeOut": 0.0
 	},
-	"revealType": "Stacked",
+	"revealType": "Individual",
 	"statusEffectTimer": true,
 	"defaultValues": {
 		"speedMultiplier": 1.0,
@@ -18,7 +18,7 @@
 		"maximumFade": 0.0
 	},
 	"health": {
-		"policy": "Changing"
+		"policy": "NotFull"
 	},
 	"hunger": {
 		"policy": "Low"
@@ -27,7 +27,7 @@
 		"policy": "NotFull"
 	},
 	"armor": {
-		"policy": "Changing"
+		"policy": "Low"
 	},
 	"experience": {
 		"active": true,
@@ -38,7 +38,7 @@
 		"onChange": true
 	},
 	"mountHealth": {
-		"policy": "Changing"
+		"policy": "NotFull"
 	},
 	"statusEffects": {
 		"active": true,
@@ -47,7 +47,7 @@
 	"hidePersistentStatusEffects": true,
 	"hotbar": {
 		"hotbar": {
-			"active": true,
+			"active": false,
 			"onChange": true
 		},
 		"onSlotChange": true,
